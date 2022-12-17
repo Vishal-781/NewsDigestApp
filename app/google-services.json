@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "961230303011",
+    "project_id": "newsdigestapp",
+    "storage_bucket": "newsdigestapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961230303011:android:fd9b87899c814ecb90e696",
+        "android_client_info": {
+          "package_name": "com.example.newsdigestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961230303011-jr3kstjvtsihbkdna7joahmm4182ca96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9_QvKzemTq9nPnPZr_Hi0lzevvWZxWw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961230303011-jr3kstjvtsihbkdna7joahmm4182ca96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
