@@ -7,6 +7,7 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
+import java.net.URL
 
 class NewsAdapter( private val listener: NewsItemClicked): RecyclerView.Adapter<NewsViewHolder>() {
 
